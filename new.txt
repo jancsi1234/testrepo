@@ -2,3 +2,5 @@ Bob
 Jim
 szia! 
 kivettem a csúnyaságokat.
+
+This update is made when a feature branch was present only on remote, but it was identicaly with master.
